@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Leandro",
+        "apellido": "Rositto",
+        "telefono": "123567732",
+        "direccion": "Mi Casa"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Perez",
+        "telefono": "234535636",
+        "direccion": "JJJJ"
+    },
+    {
+        "nombre": "Leandro",
+        "apellido": "Rositto",
+        "telefono": "123567732",
+        "direccion": "Mi Casa"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Perez",
+        "telefono": "234535636",
+        "direccion": "JJJJ"
+    }
+]
